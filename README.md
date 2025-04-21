@@ -6,3 +6,6 @@ Lee, H., Choi, H., & Kim, H. (2024). Robust Weight Initialization for Tanh Neura
 
 Openreview Link : https://openreview.net/forum?id=Es4RPNDtmq      
 Arxiv Link : https://arxiv.org/abs/2410.02242
+
+If you have any questions or inquiries, feel free to contact me at:
+lhwwoojoo@gmail.com
